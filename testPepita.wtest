@@ -1,13 +1,6 @@
 import pepita.*
 
-// auto-generated at 26/08/2016 09:03:16
 test "exported test from REPL session" {
-	
-	const tweety = new Ave(3)
-	3.max(4)
-	5
-	[pepita, tweety, chichita].sum({ ave => ave.energia() })
-	[pepita, tweety, chichita]
-	[pepita, tweety, chichita].sum({ ave => ave.energia() })
-	{ ave => ave.energia() }
+	const tweety = new Ave(energia = 3)
+	assert.equals(153, [pepita, tweety, chichita].sum({ ave => ave.energia() }))
 }

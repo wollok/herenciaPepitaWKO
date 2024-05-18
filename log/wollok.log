@@ -1,0 +1,30 @@
+{"level":"info","message":"⌛ Building environment","timeElapsed":178,"timestamp":"2024-05-18T18:12:04.844Z"}
+{"level":"info","message":"⌛ Validating pepita.wlk","timeElapsed":144,"timestamp":"2024-05-18T18:12:05.175Z"}
+{"level":"info","message":"⌛ Validating testPepita.wtest","timeElapsed":130,"timestamp":"2024-05-18T18:12:05.397Z"}
+{"level":"info","message":"⌛ Validating pepita.wlk","timeElapsed":110,"timestamp":"2024-05-18T18:12:05.508Z"}
+{"level":"info","message":"⌛ Validating pepita.wlk","timeElapsed":135,"timestamp":"2024-05-18T18:12:14.481Z"}
+{"level":"info","message":"⌛ Validating pepita.wlk","timeElapsed":102,"timestamp":"2024-05-18T18:12:14.733Z"}
+{"level":"info","message":"⌛ Validating pepita.wlk","timeElapsed":109,"timestamp":"2024-05-18T18:12:14.908Z"}
+{"level":"info","message":"⌛ Validating pepita.wlk","timeElapsed":121,"timestamp":"2024-05-18T18:12:15.107Z"}
+{"level":"info","message":"⌛ Validating pepita.wlk","timeElapsed":109,"timestamp":"2024-05-18T18:12:15.377Z"}
+{"level":"info","message":"⌛ Validating pepita.wlk","timeElapsed":104,"timestamp":"2024-05-18T18:12:17.496Z"}
+{"level":"info","message":"⌛ Validating pepita.wlk","timeElapsed":134,"timestamp":"2024-05-18T18:12:18.560Z"}
+{"level":"info","message":"⌛ Validating testPepita.wtest","timeElapsed":107,"timestamp":"2024-05-18T18:12:32.227Z"}
+{"level":"info","message":"⌛ Validating testPepita.wtest","timeElapsed":104,"timestamp":"2024-05-18T18:12:41.686Z"}
+{"level":"info","message":"⌛ Validating testPepita.wtest","timeElapsed":103,"timestamp":"2024-05-18T18:12:41.790Z"}
+{"level":"info","message":"⌛ Validating testPepita.wtest","timeElapsed":102,"timestamp":"2024-05-18T18:12:41.965Z"}
+{"level":"info","message":"⌛ Validating testPepita.wtest","timeElapsed":102,"timestamp":"2024-05-18T18:12:42.751Z"}
+{"level":"info","message":"⌛ Validating testPepita.wtest","timeElapsed":121,"timestamp":"2024-05-18T18:12:42.970Z"}
+{"level":"info","message":"⌛ Validating testPepita.wtest","timeElapsed":102,"timestamp":"2024-05-18T18:12:43.220Z"}
+{"level":"info","message":"⌛ Validating testPepita.wtest","timeElapsed":101,"timestamp":"2024-05-18T18:12:50.894Z"}
+{"level":"info","message":"⌛ Validating testPepita.wtest","timeElapsed":115,"timestamp":"2024-05-18T18:12:51.080Z"}
+{"level":"info","message":"⌛ Validating testPepita.wtest","timeElapsed":110,"timestamp":"2024-05-18T18:12:51.260Z"}
+{"level":"info","message":"⌛ Validating testPepita.wtest","timeElapsed":109,"timestamp":"2024-05-18T18:12:51.517Z"}
+{"level":"info","message":"⌛ Validating testPepita.wtest","timeElapsed":110,"timestamp":"2024-05-18T18:13:01.560Z"}
+{"level":"info","message":"⌛ Validating testPepita.wtest","timeElapsed":113,"timestamp":"2024-05-18T18:13:01.979Z"}
+{"failures":[{"error":["wollok.lib.AssertionException: Expected <110> but found <153>","  at testPepita.\"exported test from REPL session\" [testPepita.wtest:3]"],"test":"testPepita.\"exported test from REPL session\""}],"level":"info","message":"🧪 Test runner executed matching testPepita.\"exported test from REPL session\" on /home/dodain/workspace/wollok-dev/wollok-workspace/migracion-proyectos/herenciaPepitaWKO","result":{"failed":1,"ok":0},"timeElapsed":312,"timestamp":"2024-05-18T18:13:10.136Z"}
+{"level":"info","message":"⌛ Validating testPepita.wtest","timeElapsed":111,"timestamp":"2024-05-18T18:13:14.498Z"}
+{"failures":[],"level":"info","message":"🧪 Test runner executed matching testPepita.\"exported test from REPL session\" on /home/dodain/workspace/wollok-dev/wollok-workspace/migracion-proyectos/herenciaPepitaWKO","result":{"failed":0,"ok":1},"timeElapsed":299,"timestamp":"2024-05-18T18:13:17.486Z"}
+{"level":"info","message":"⌛ Building environment","timeElapsed":114,"timestamp":"2024-05-18T18:13:32.458Z"}
+{"level":"info","message":"⌛ Validating pepita.wlk","timeElapsed":123,"timestamp":"2024-05-18T18:13:32.582Z"}
+{"level":"info","message":"⌛ Validating testPepita.wtest","timeElapsed":106,"timestamp":"2024-05-18T18:13:32.690Z"}
