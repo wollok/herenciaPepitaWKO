@@ -1,6 +1,6 @@
 # Ejemplo de Herencia de WKO y Clases
  
-[![Build Status](https://travis-ci.org/wollok/herenciaPepitaWKO.svg?branch=master)](https://travis-ci.org/wollok/herenciaPepitaWKO)
+[![Build Status](https://github.com/wollok/herenciaPepitaWKO/actions/workflows/ci.yml/badge.svg)](https://github.com/wollok/herenciaPepitaWKO/actions/workflows/ci.yml)
 
 
 En este ejemplo podemos ver que existen dos aves que se nombran
